@@ -1,0 +1,102 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://TilesetAtlas.png" type="Texture" id=1]
+
+[node name="TilesetCreator" type="Node2D"]
+
+[node name="Tile0" type="Sprite" parent="."]
+position = Vector2( 4.09773, 4.06387 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 8, 8 )
+
+[node name="Tile1" type="Sprite" parent="."]
+position = Vector2( 12.6318, 3.99613 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 8, 0, 8, 8 )
+
+[node name="Tile2" type="Sprite" parent="."]
+position = Vector2( 21.6401, 3.96227 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 0, 8, 8 )
+
+[node name="Tile3" type="Sprite" parent="."]
+position = Vector2( 30.3435, 4.06387 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 24, 0, 8, 8 )
+
+[node name="Tile4" type="Sprite" parent="."]
+position = Vector2( 4.16546, 12.6996 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 8, 8, 8 )
+
+[node name="Tile5" type="Sprite" parent="."]
+position = Vector2( 12.6996, 12.6996 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 8, 8, 8, 8 )
+
+[node name="Tile6" type="Sprite" parent="."]
+position = Vector2( 21.8771, 12.5641 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 8, 8, 8 )
+
+[node name="Tile7" type="Sprite" parent="."]
+position = Vector2( 30.8103, 12.6662 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 24, 8, 8, 8 )
+
+[node name="Tile8" type="Sprite" parent="."]
+position = Vector2( 4.11283, 21.6505 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 16, 8, 8 )
+
+[node name="Tile9" type="Sprite" parent="."]
+position = Vector2( 12.9439, 21.7526 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 8, 16, 8, 8 )
+
+[node name="Tile10" type="Sprite" parent="."]
+position = Vector2( 21.8261, 21.7526 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 16, 8, 8 )
+
+[node name="Tile11" type="Sprite" parent="."]
+position = Vector2( 30.9124, 21.8036 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 24, 16, 8, 8 )
+
+[node name="Tile12" type="Sprite" parent="."]
+position = Vector2( 4.31702, 30.5326 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 24, 8, 8 )
+
+[node name="Tile13" type="Sprite" parent="."]
+position = Vector2( 12.995, 30.6858 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 8, 24, 8, 8 )
+
+[node name="Tile14" type="Sprite" parent="."]
+position = Vector2( 22.2345, 30.8389 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 24, 8, 8 )
+
+[node name="Tile15" type="Sprite" parent="."]
+position = Vector2( 31.2698, 30.992 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 24, 24, 8, 8 )
+
